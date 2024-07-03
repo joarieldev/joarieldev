@@ -8,7 +8,7 @@
     👨‍💻 Porfolio
   </a>
   <span style="width: 10px;"> - </span>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-105578238/" target="blank">
+  <a href="https://www.linkedin.com/in/jose-martinez-105578238" target="blank">
      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
