@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://porfolio-jose.pages.dev/" target="blank" style="color: white;">
+  <a href="https://joariel.dev/" target="blank" style="color: white;">
     👨‍💻 Porfolio
   </a>
   <span style="width: 10px;"> - </span>
-  <a href="https://www.linkedin.com/in/jose-martinez-105578238" target="blank">
+  <a href="https://www.linkedin.com/in/joarieldev" target="blank">
      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
