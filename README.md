@@ -1,14 +1,41 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/josearidev/josearidev/assets/85816562/77869497-3473-40eb-876a-7af2e4999866" width="180" />
-   <h3 align="center">¡Hey 👋! Soy José 👨🏻‍💻</h3>
-</p>
+## ¡Hey 👋! Soy [josé](https://joariel.dev/) 👨🏻‍💻
 
-<p align="center">
-  <a href="https://joariel.dev/" target="blank" style="color: white;">
-    👨‍💻 Porfolio
-  </a>
-  <span style="width: 10px;"> - </span>
-  <a href="https://www.linkedin.com/in/joarieldev" target="blank">
-     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</p>
+**Desarrollador Frontend**
+
+🌱 Trabajando con  [React](https://react.dev/).
+
+🔭 Aprendiendo **Desarrollo Web Full Stack**.
+
+
+<br />
+
+<a href="https://x.com/joarieldev">
+  <img src="assets/x.svg" alt="X">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joarieldev/">
+  <img src="assets/linkedin.svg" alt="LinkedIn">
+</a>
+
+<br />
+
+## Tecnologías
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="assets/css.svg" alt="CSS">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="assets/html.svg" alt="HTML">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="assets/javascript.svg" alt="JavaScript">
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="assets/typescript.svg" alt="TypeScript">
+</a>
+&nbsp;
+<a href="https://react.dev/" target="_blank">
+  <img src="assets/react.svg" alt="React">
+</a>
